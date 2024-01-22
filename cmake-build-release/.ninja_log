@@ -1,0 +1,15 @@
+# ninja log v5
+6	16520	7168180422304695	CMakeFiles/calculateNFP.dir/main.cpp.obj	aae82741e96f4865
+4	3363	7167264390767646	CMakeFiles/calculateNFP.dir/caculateDepth.cpp.obj	72ea5699a9648f88
+16521	16833	7168180425361018	calculateNFP.exe	26154f47bbb34c61
+24	703	7167264364167740	CMakeFiles/calculateNFP.dir/segmentSolution.cpp.obj	ea404eb572a8fa7b
+18	2804	7167264385152293	CMakeFiles/calculateNFP.dir/cuckooBeta.cpp.obj	d94ec16cbe719d66
+13	7392	7167264431066027	CMakeFiles/calculateNFP.dir/geometry.cpp.obj	966422a56c74e077
+9	2866	7167264385771996	CMakeFiles/calculateNFP.dir/inConcaveCai.cpp.obj	f1be5a7a324bcfa
+210	1483	7200974806691534	CMakeFiles/calculateNFP.dir/segmentSolution.cpp.obj	170d68554dc2d832
+7	2622	7200974818381519	CMakeFiles/calculateNFP.dir/inConcaveCai.cpp.obj	d5b90c23e11b3f0b
+177	2701	7200974819411515	CMakeFiles/calculateNFP.dir/cuckooBeta.cpp.obj	79be4734c36d97dc
+39	2722	7200974819571529	CMakeFiles/calculateNFP.dir/caculateDepth.cpp.obj	e5395693b6cea1ee
+93	4594	7200974838381494	CMakeFiles/calculateNFP.dir/geometry.cpp.obj	1d82489edd01210a
+223	8738	7200974879836386	CMakeFiles/calculateNFP.dir/main.cpp.obj	4d077b57828a67e0
+8738	9033	7200974882726388	calculateNFP.exe	c4b68e3a269b891

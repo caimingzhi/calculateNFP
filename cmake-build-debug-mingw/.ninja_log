@@ -1,0 +1,8 @@
+# ninja log v5
+241	3876	7163623689819716	CMakeFiles/calculateNFP.dir/caculateDepth.cpp.obj	7c7763da4b4bd7b8
+3	7252	7164536641669774	CMakeFiles/calculateNFP.dir/main.cpp.obj	d5453318396e6aab
+7252	9840	7164536667554177	calculateNFP.exe	8da0b58de81a2a95
+4	773	7162773695684791	CMakeFiles/calculateNFP.dir/segmentSolution.cpp.obj	fde8a6c4589caf9e
+13	3844	7164531995095516	CMakeFiles/calculateNFP.dir/cuckooBeta.cpp.obj	57bd3231e4697277
+24	4883	7162773737168891	CMakeFiles/calculateNFP.dir/geometry.cpp.obj	1ae0b67a72803002
+15	2769	7162773716049879	CMakeFiles/calculateNFP.dir/inConcaveCai.cpp.obj	8621062585a53902

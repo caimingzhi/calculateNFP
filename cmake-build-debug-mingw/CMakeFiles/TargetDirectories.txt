@@ -1,0 +1,3 @@
+E:/myNewReposity/testLib/calculateNFP/cmake-build-debug-mingw/CMakeFiles/calculateNFP.dir
+E:/myNewReposity/testLib/calculateNFP/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+E:/myNewReposity/testLib/calculateNFP/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
